@@ -44,9 +44,12 @@ In the project directory, I made virtual books library website, that allows the 
 - dotenv
 - nodemon
 
-## Product Page
+## Admin Page
 
 ![ScreenShots](https://github.com/Gaursafal/Library-Management/blob/main/Frontend/public/Lrc.png)
+
+## User Page
+![ScreenShots](https://github.com/Gaursafal/Library-Management/blob/main/Frontend/public/lrc1.png)
 
 
 ## Contributors
